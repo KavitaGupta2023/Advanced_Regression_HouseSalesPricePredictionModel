@@ -22,7 +22,7 @@ This will help company to make decisions to meet the demands and increase custom
  Which variables are significant in predicting the price of a house, and
  How well those variables describe the price of a house.
   It will be used by the housing company to decide what properly to purchase based on property values and make profit.
-- advertising.csv
+- train.csv
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
